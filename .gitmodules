@@ -1,0 +1,9 @@
+[submodule "third_part/miniaudio"]
+	path = third_part/miniaudio
+	url = https://github.com/dr-soft/miniaudio.git
+[submodule "third_part/belle"]
+	path = third_part/belle
+	url = https://github.com/octobanana/belle.git
+[submodule "third_part/easyloggingpp"]
+	path = third_part/easyloggingpp
+	url = https://github.com/amrayn/easyloggingpp.git
